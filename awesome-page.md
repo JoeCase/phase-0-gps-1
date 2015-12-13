@@ -31,4 +31,6 @@ http://www.link.com
 
 ![Here is out image](../imgs/screen-shot.png "Here is the image")
 
+<<<<<<< HEAD
 Oops, here is a conflict!!
+
